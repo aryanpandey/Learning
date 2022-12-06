@@ -3,6 +3,8 @@
 ### Concepts
 - [Causation vs Correlation and How to Check for Causation](./Concepts/Causation_Correlation.md)
 - [Observational and Experimental Studies](./Concepts/Observational_and_Experimental_Data.md)
+- [Lurking Variables](./Concepts/Lurking_Variables.md)
+
 ### DGL
 - [DGL Graph Representation](https://github.com/aryanpandey/Learning/blob/main/DGL/DGL%20Graph%20Representation.ipynb)
 - [Node Classification with DGL](https://github.com/aryanpandey/Learning/blob/main/DGL/Node%20Classification%20with%20DGL.ipynb)

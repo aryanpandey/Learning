@@ -4,6 +4,7 @@
 - [Causation vs Correlation and How to Check for Causation](./Concepts/Causation_Correlation.md)
 - [Observational and Experimental Studies](./Concepts/Observational_and_Experimental_Data.md)
 - [Lurking Variables](./Concepts/Lurking_Variables.md)
+- [Gauss Markov Theorem - article by StatLect](https://www.statlect.com/fundamentals-of-statistics/Gauss-Markov-theorem#:~:text=The%20Gauss%20Markov%20theorem%20says,linear%20in%20the%20observed%20output)
 
 ### DGL
 - [DGL Graph Representation](https://github.com/aryanpandey/Learning/blob/main/DGL/DGL%20Graph%20Representation.ipynb)

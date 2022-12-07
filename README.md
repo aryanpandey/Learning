@@ -6,7 +6,8 @@
 - [Lurking Variables](./Concepts/Lurking_Variables.md)
 - [Gauss Markov Theorem - article by StatLect](https://www.statlect.com/fundamentals-of-statistics/Gauss-Markov-theorem#:~:text=The%20Gauss%20Markov%20theorem%20says,linear%20in%20the%20observed%20output)
 - [Point and Interval Estimates - article by Corporate Finance Institute](https://corporatefinanceinstitute.com/resources/data-science/point-estimators/)
-- [Sampling Distributions of Regression Coefficients - a report by David C. Howell](https://www.uvm.edu/~statdhtx/methods8/Supplements/SampDistRegCoeff.pdf)
+- [Sampling Distributions of Regression Coefficients - a report by David C. Howell](https://www.uvm.edu/~statdhtx/methods8/Supplements/SampDistRegCoeff.pdf) | [Desklamp Version of the Document](https://app.desklamp.io/read?id=ef3c1b35-056a-4508-829a-4777423650d2)
+
 
 ### DGL
 - [DGL Graph Representation](https://github.com/aryanpandey/Learning/blob/main/DGL/DGL%20Graph%20Representation.ipynb)

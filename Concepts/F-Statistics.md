@@ -18,3 +18,5 @@ Where:
 - N is the Number of Observations
 
 Compare this F-Statistic with the F-distribution for a 95% confidence interval. 
+
+[Link for the supporting Code Notebook](../Notebooks/F-Statistic.ipynb)

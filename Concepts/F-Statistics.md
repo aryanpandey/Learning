@@ -11,4 +11,10 @@ This means that even if one of the coefficients is significant, then there is a 
 
 The two kind of models one could consider could be: First, an unrestricted model which has all the predictor variables and a restricted model which has only a subset of the predictor variables. 
 
+The F-Statistic would then be calculated as: (SSR_R - SSR_U) * (N-P-1) / (SSR_U * P)
 
+Where:
+- P is the number of predictor variables
+- N is the Number of Observations
+
+Compare this F-Statistic with the F-distribution for a 95% confidence interval. 

@@ -8,6 +8,7 @@
 - [Point and Interval Estimates - article by Corporate Finance Institute](https://corporatefinanceinstitute.com/resources/data-science/point-estimators/)
 - [Sampling Distributions of Regression Coefficients - a report by David C. Howell](https://www.uvm.edu/~statdhtx/methods8/Supplements/SampDistRegCoeff.pdf) | [Desklamp Version of the Document](https://app.desklamp.io/read?id=ef3c1b35-056a-4508-829a-4777423650d2)
 - [F-Statistics and F-Test](./Concepts/F-Statistics.md)
+- [ANOVA Test](./Concepts/ANOVA_Test.md)
 
 
 ### DGL

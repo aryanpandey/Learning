@@ -9,6 +9,7 @@
 - [Sampling Distributions of Regression Coefficients - a report by David C. Howell](https://www.uvm.edu/~statdhtx/methods8/Supplements/SampDistRegCoeff.pdf) | [Desklamp Version of the Document](https://app.desklamp.io/read?id=ef3c1b35-056a-4508-829a-4777423650d2)
 - [F-Statistics and F-Test](./Concepts/F-Statistics.md)
 - [ANOVA Test](./Concepts/ANOVA_Test.md)
+- [Coefficient of Determination - Article by Scribbr](https://www.scribbr.com/statistics/coefficient-of-determination/#:~:text=The%20coefficient%20of%20determination%20(R%C2%B2)%20is%20a%20number%20between%200,predicted%20by%20the%20statistical%20model.)
 
 
 ### DGL
